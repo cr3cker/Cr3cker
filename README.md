@@ -1,4 +1,4 @@
-### Hi everyone 👋 This is my little world where I post my shitty code. Enjoy your stay!
+### Hi everyone 👋 This is my little world where I create my shitty code. Enjoy your stay!
 
 - 🔭 I’m currently working on the backend FastAPI project
 - 🌱 I’m currently learning how to refactor code (but so far it's not working out very well)
