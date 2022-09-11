@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on OpenSource projects 
 - ⚡ Fun fact: my code was not only useless, but also toxic. It held back our team for a whole quarter
 
-![Cr3cker's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr3cker&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs)
