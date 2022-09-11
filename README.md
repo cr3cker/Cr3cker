@@ -7,5 +7,5 @@
 
 ![Cr3cker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr3cker&hide=prs)
 
-## Watch this nasty snake!
+## Watch this nasty snake eating my contributions!
 ![snake gif](https://github.com/Cr3cker/Cr3cker/blob/output/github-contribution-grid-snake.gif)
