@@ -8,4 +8,4 @@
 ![Cr3cker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr3cker&hide=prs)
 
 ## Watch this nasty snake eating my contributions!
-![Snake animation](https://github.com/Cr3cker/Cr3cker/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
