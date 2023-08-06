@@ -8,8 +8,7 @@
 <div>
   <a href="https://github.com/Cr3cker">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr3cker&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/apiusername=Cr3cker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    https://github-readme-stats.vercel.app/api?username=Cr3cker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues
+  <img align="center" src=" https://github-readme-stats.vercel.app/api?username=Cr3cker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 
