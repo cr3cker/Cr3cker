@@ -5,7 +5,12 @@
 - 👯 I’m looking to collaborate on OpenSource projects 
 - ⚡ Fun fact: my code was not only useless, but also toxic. It held back our team for a whole quarter
 
-![Cr3cker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr3cker&hide=prs)
+<div>
+  <a href="https://github.com/Cr3cker">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr3cker&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/apiusername=Cr3cker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 
 ## Watch this nasty snake eating my contributions!
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
