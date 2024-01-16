@@ -1,14 +1,2 @@
-### Hi everyone 👋 This is my little world where I write my code. Enjoy your stay!
-
-- 🔭 I’m currently working on the backend FastAPI project
-- 🌱 I’m currently learning how to refactor code (but so far it's not working out very well)
-- 👯 I’m looking to collaborate on OpenSource projects 
-
-<div>
-  <a href="https://github.com/Cr3cker">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr3cker&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-
 ## Watch this nasty snake eating my contributions!
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
